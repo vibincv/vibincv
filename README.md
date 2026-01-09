@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Vibin 👋</h1>
   <p><b>Senior Lead Engineer | Kotlin & Spring Boot Specialist | Microservice Architect</b></p>
+  I am a <b>Senior Engineer</b> with a deep background in the Java ecosystem, specializing in the architectural transition from legacy enterprise systems to modern <b>Cloud-Native Microservices</b>. Currently, I focus on building high-performance <b>Kotlin</b> services and custom search solutions using <b>OpenSearch</b> within <b>AWS</b> environments. I am a firm believer in <b>TDD, BDD,</b> and <b>Clean Code</b> principles to deliver robust, scalable software.
 </div>
 
 ---
