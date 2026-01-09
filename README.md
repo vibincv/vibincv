@@ -10,7 +10,7 @@ Infrastructure: Orchestrating deployments using Gradle, Docker, and AWS EKS (Kub
 Search Engineering: Developing a custom search engine utilizing OpenSearch.
 
 🛠 Tech Stack
-Languages & Frameworks : JAVA, Kotlin, Javascript, HTML, Python
+Languages & Frameworks : JAVA, Kotlin, Javascript, HTML, Python, Spring, Springboot
 
 Data & Messaging : Kafka, Rabbit MQ
 
